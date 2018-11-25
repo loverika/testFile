@@ -7,6 +7,10 @@ public abstract class Animal {
 		this.name = name;
 	}
 
+	
+	
+	
+	//fgdfg
 	public abstract void eat();
 	public abstract void breathe();
 	
